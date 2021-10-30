@@ -1,6 +1,6 @@
 font-roboto==0.0.1
 fonts==0.0.3
 numpy==1.18.1
-Pillow==7.0.0
+Pillow==8.4.0
 RPi.GPIO==0.7.0
 spidev==3.4
